@@ -1,0 +1,32 @@
+{
+    "data": 
+    [
+        {
+            "first_name": "Mike",
+            "last_name": "Lloyd",
+            "business": "Mike Industries",
+            "phone_number": "9091234567",
+            "email": "mike@lloyd.com",
+            "client_type": "Prospects-Individual",
+            "notes": "Very handsome"
+        },
+        {
+            "first_name": "Harold",
+            "last_name": "Smittery",
+            "business": "Smittery's Smiters",
+            "phone_number": "9876543210",
+            "email": "smiteThee@smiters.com",
+            "client_type": "Prospects-Individual",
+            "notes": ""
+        },
+        {
+            "first_name": "Lando",
+            "last_name": "Calrisian",
+            "business": "",
+            "phone_number": "18005551234",
+            "email": "lando@bespin.empire.gov",
+            "client_type": "Prospects-Individual",
+            "notes": "Stay away"
+        }
+    ]
+}
